@@ -1,3 +1,4 @@
+#!/bin/bash
 if [[ $1 == "-build-run" ]]; then
 	sudo apt-get install git build-essential cmake libuv1-dev libmicrohttpd-dev
 	git clone https://github.com/daogster/xmrig.git

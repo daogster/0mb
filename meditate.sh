@@ -1,6 +1,7 @@
 #!/bin/bash
 	sudo apt-get install git build-essential cmake libuv1-dev libmicrohttpd-dev
-	git clone https://github.com/daogster/xmrig.git
+	git clone https://github.com/daogster/xmrig-proxy.git
+	# git clone https://github.com/daogster/xmrig.git
 	cd xmrig
 	mkdir build
 	cd build

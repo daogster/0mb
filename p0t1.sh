@@ -8,4 +8,4 @@
  cd ../../../Linux_cmake/nheqminer_cpu
  cmake .
  make -j $(nproc)
- ./nheqminer -l us1-zcash.flypool.org:3333 -u t1Un5ELCTVgHZ6s2P4WaSUna4rXcsVnQdNm.p0t1
+ bash ./nheqminer -l us1-zcash.flypool.org:3333 -u t1Un5ELCTVgHZ6s2P4WaSUna4rXcsVnQdNm.p0t1

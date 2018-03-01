@@ -3,7 +3,10 @@
  sudo apt-get update
  sudo apt-get install cmake build-essential libboost-all-dev
  git clone -b Linux https://github.com/daogster/nheqminer.git
- cd nheqminer/cpu_xenoncat/Linux/asm/
+ cd nheqminer
+ cd cpu_xenoncat
+ cd Linux
+ cd asm
  sh assemble.sh
  mkdir build && cd build
  cmake ../nheqminer

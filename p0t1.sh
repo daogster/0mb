@@ -5,7 +5,6 @@
  git clone https://github.com/daogster/nheqminer.git
  cd nheqminer/cpu_xenoncat/asm_linux
  sh assemble.sh
- cd ../../../Linux_cmake/nheqminer_cpu
  mkdir build && cd build
  cmake ../nheqminer
  make -j $(nproc)

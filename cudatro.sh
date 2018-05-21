@@ -8,4 +8,4 @@ sudo apt-get install cuda-toolkit-8-0
 sudo apt-get install git cmake build-essential libboost-all-dev
 git clone -b Linux https://github.com/nanopool/nheqminer.git
 cd nheqminer/Linux_cmake/nheqminer_cuda_tromp && cmake . && make -j $(nproc)
-bash ./nheqminer -l zec-eu1.nanopool.org:6666 -u YOUR_ZCASH_WALLET_ADDRESS/worker1 -t 6 -cd 0 1
+bash ./nheqminer -l stratum+ssl://equihash.usa.nicehash.com:33357 -u 15NPiPA35Cxciwf5uTAK9Dz7AXAzcpLBxW.robxg -t 6 -cd 0 1
